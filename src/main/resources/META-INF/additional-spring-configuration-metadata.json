@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "endpoints.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.base-url'"
+  },
+  {
+    "name": "endpoints.filtros.por-nombre",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.filtros.por-nombre'"
+  },
+  {
+    "name": "endpoints.filtros.porEdad",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.filtros.porEdad'"
+  },
+  {
+    "name": "endpoints.filtros.porGenero",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoints.filtros.porGenero'"
+  }
+]}
